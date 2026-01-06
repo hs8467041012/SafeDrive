@@ -1,5 +1,7 @@
 SafeDrive – Real-Time Driver Drowsiness Detection System
+
 SafeDrive is an AI-powered real-time driver drowsiness detection system designed to enhance road safety by continuously monitoring a driver’s facial cues and alerting them before fatigue leads to accidents.
+
 This repository contains all training notebooks, deep learning models, feature engineering scripts, and real-time inference code used during development and experimentation.
 
 Project Overview
